@@ -1,0 +1,34 @@
+{
+  "name": "cpython",
+  "version": "3.8.20",
+  "build": "py38hd8ed1ab_2",
+  "build_number": 2,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "subdir": "noarch",
+  "fn": "cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "md5": "d84581c0ef3fe37ad90399009ad3bf94",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "sha256": "4ca2a3c4b1a706d41101a6eac8ca3c7057496014f183d497e9907019df5a8202",
+  "depends": [
+    "python 3.8.20.*",
+    "python_abi * *_cp38"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "Python-2.0",
+  "package_type": "noarch_generic",
+  "timestamp": 1727718652000,
+  "size": 49643,
+  "requested_spec": "None",
+  "package_tarball_full_path": "C:\\Users\\NISHTHA DHARIWAL\\miniconda3\\mlpro\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2.conda",
+  "extracted_package_dir": "C:\\Users\\NISHTHA DHARIWAL\\miniconda3\\mlpro\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "C:\\Users\\NISHTHA DHARIWAL\\miniconda3\\mlpro\\pkgs\\cpython-3.8.20-py38hd8ed1ab_2",
+    "type": 1
+  }
+}
